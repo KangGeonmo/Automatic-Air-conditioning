@@ -1,7 +1,7 @@
 ## Automatic-Air-conditioning
 자동 냉난방 시스템
 
-![leaflet](./DOCS/image/leaflet.png)
+![leaflet](./DOCS/image/leaflet.PNG)
 
 ### 발표자료 및 보고서
 * [발표자료](https://github.com/KangGeonmo/Automatic-Air-conditioning/blob/master/DOCS/자동냉난방시스템_발표자료.pdf)
